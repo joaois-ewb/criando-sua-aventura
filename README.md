@@ -6,7 +6,7 @@ Este é o projeto de um jogo de aventura baseado em texto, onde a pessoa usuári
 
 - **Narrativa interativa:** A história se desenrola através de parágrafos de texto, com o usuário fazendo escolhas em pontos específicos.
 - **Múltiplos finais:** Dependendo das decisões tomadas, o jogador pode encontrar a cidade perdida, desistir da aventura ou chegar a outros finais.
-- **Navegação simples:** Botões guiam a pessoa usuária pela história, revelando o próximo passo da aventura.
+- **Navegação simples:** Botões guiam a pessoa usuária pela história, revelando o próximo passo da aventura. g
 
 ### Como jogar
 
